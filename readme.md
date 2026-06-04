@@ -1,5 +1,5 @@
 # 🗂️ JobTracker
-
+<img width="1339" height="1085" alt="jobtracker" src="https://github.com/user-attachments/assets/d3a7e762-3510-4a7a-9fe8-3f3aea0c899e" />
 A modern Job Application Tracking System built with **PHP, CodeIgniter 3, MySQL, jQuery AJAX, Bootstrap 4, and Chart.js**.
 
 Developed by **Ahmad Husain** to showcase full-stack web development skills, MVC architecture, authentication, database management, AJAX interactions, and responsive UI design.
