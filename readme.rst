@@ -1,71 +1,102 @@
-###################
-What is CodeIgniter
-###################
+# 🗂️ JobTracker
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
 
-*******************
-Release Information
-*******************
+A modern Job Application Tracking System built with **PHP, CodeIgniter 3, MySQL, jQuery AJAX, Bootstrap 4, and Chart.js**.
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+Developed by **Ahmad Husain** to showcase full-stack web development skills, MVC architecture, authentication, database management, AJAX interactions, and responsive UI design.
 
-**************************
-Changelog and New Features
-**************************
+## 🚀 Project Overview
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+JobTracker helps users organize, monitor, and manage their job applications from a single dashboard. It streamlines the job search process by tracking application status, follow-up reminders, interview progress, and application statistics.
 
-*******************
-Server Requirements
-*******************
+This project demonstrates real-world web development concepts including:
 
-PHP version 5.6 or newer is recommended.
+* MVC Architecture using CodeIgniter 3
+* Secure Authentication System
+* CRUD Operations with Form Validation
+* AJAX-Powered User Experience
+* Relational Database Design (MySQL)
+* Dashboard Analytics & Data Visualization
+* Responsive Mobile-Friendly Interface
 
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
+## ✨ Key Features
 
-************
-Installation
-************
+### 🔐 Authentication & Security
 
-Please see the `installation section <https://codeigniter.com/userguide3/installation/index.html>`_
-of the CodeIgniter User Guide.
+* User Registration & Login
+* Secure password hashing using `password_hash()`
+* Session-based authentication
+* Protected routes and access control
 
-*******
-License
-*******
+### 📊 Dashboard & Analytics
 
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+* Application statistics overview
+* Interactive Chart.js visualizations
+* Real-time application insights
+* AJAX-powered dashboard updates
 
-*********
-Resources
-*********
+### 📝 Application Management
 
--  `User Guide <https://codeigniter.com/docs>`_
--  `Contributing Guide <https://github.com/bcit-ci/CodeIgniter/blob/develop/contributing.md>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
+* Add, edit, and delete job applications
+* Track company, role, salary, and application details
+* Store application links and notes
+* Form validation using CodeIgniter Validation Library
 
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
+### 🔍 Search & Filtering
 
-***************
-Acknowledgement
-***************
+* Search applications by company or job role
+* Filter by application status
+* Filter by job type
+* Quick access to relevant records
 
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+### ⚡ AJAX Features
+
+* Inline status updates without page reload
+* Dynamic dashboard refresh
+* Improved user experience with asynchronous requests
+
+### 🔔 Follow-Up Reminders
+
+* Track pending follow-ups
+* Highlight overdue applications
+* Stay organized during the job search process
+
+### 🗑️ Data Management
+
+* Confirmation modal before deletion
+* Safe record management
+* Clean and intuitive interface
+
+### 📱 Responsive Design
+
+* Built with Bootstrap 4
+* Mobile-friendly layout
+* Cross-browser compatibility
+
+## 🛠️ Technology Stack
+
+* PHP 8+
+* CodeIgniter 3
+* MySQL
+* jQuery & AJAX
+* Bootstrap 4
+* Chart.js
+* HTML5 & CSS3
+
+## 📸 Screenshots
+
+Add project screenshots here to showcase:
+
+* Login Page
+* Dashboard
+* Add Job Form
+* Application Listing
+* Analytics Dashboard
+
+## 🎯 Purpose
+
+This project was built to strengthen practical knowledge of full-stack PHP development and demonstrate skills required for Software Engineer, PHP Developer, and Web Developer roles.
+
+---
+
+⭐ If you found this project useful, consider giving it a star.
